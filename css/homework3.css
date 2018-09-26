@@ -1,0 +1,13 @@
+div {
+
+    color: white;
+    font-size: 25px;
+    background-color: green;
+    width: 150px;
+    height:100px;
+    padding: 90px;
+    margin: 30px 50px 50px 550px;
+    border: 15px solid black;
+    outline: #0000ff solid 15px;
+
+}

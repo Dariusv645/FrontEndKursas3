@@ -1,0 +1,34 @@
+table {
+    margin: 0 50px 50px 600px;
+    border-collapse: collapse;
+}
+
+th {
+    border-top: 0 transparent;
+    border-right: 2px grey;
+    border-style: solid;
+    border-bottom: 4px grey;
+    border-left: 2px grey;
+    background-color: green;
+    color: white;
+    padding: 15px;
+}
+
+td {
+    border-right: 2px grey;
+    border-bottom: 4px grey;
+    border-style: solid;
+    border-left: 0 transparent;
+    padding: 15px;
+}
+
+body {
+    background: url(https://i.ytimg.com/vi/uo5WtNlTrw4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.aa {
+    color: blue;
+}

@@ -1,0 +1,51 @@
+body {
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+}
+
+div {
+    border-right: thin;
+
+}
+
+header {
+    background-color: black;
+    color: white;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+    padding: 20px;
+}
+ul {
+
+    list-style-type: none;
+    color: blue;
+}
+article {
+    box-sizing: border-box;
+    width: 75%;
+    border: solid 1px;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: thin;
+    padding: 20px;
+    margin-left: 25%;
+
+}
+nav {
+    height: 200px;
+    width: 150px;
+    box-sizing: border-box;
+
+
+}

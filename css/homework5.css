@@ -1,0 +1,38 @@
+.container {
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+}
+ header, footer, a {
+     background-color: black;
+     color: white;
+     text-align: center;
+     font-size: 15px;
+     padding: 15px;
+
+ }
+ .decoration {
+     list-style-type: none;
+     color: blue;
+ }
+
+ p, h3 {
+     text-align: justify;
+ }
+  .float-left {
+      float: left;
+      padding: 10px;
+ }
+.clearfix {
+      clear: both;
+  }
+.border-box {
+    box-sizing: border-box;
+    width: 75%;
+    border: solid black 1px;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: thin;
+    padding: 20px;
+    margin-left: 25%;
+}

@@ -1,0 +1,41 @@
+table {
+    border: solid grey;
+    width: 250px;
+    height: 250px;
+    margin: 0 30px 100px 600px;
+    border-collapse: collapse;
+    border-top: transparent;
+    border-left: transparent;
+    text-align: center;
+    color: white;
+
+}
+th {
+    border: 0 2px 4px 2px solid grey;
+    border-right: 2px solid grey;
+    background-color: green;
+    border-top: transparent;
+    border-left: transparent;
+
+
+
+}
+td {
+    border: solid grey;
+    border-right: 2px solid grey;
+    border-left: transparent;
+    border-bottom: 4px solid grey;
+    color: grey;
+
+
+
+}
+body {
+    background: url(https://images.pexels.com/photos/960137/pexels-photo-960137.jpeg?auto=compress&cs=tinysrgb&h=350);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ab {
+    background-color: white;
+}
